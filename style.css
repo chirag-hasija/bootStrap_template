@@ -1,0 +1,22 @@
+/* Example CSS file */
+h1 {
+    color: blue;
+    text-align: center;
+    outline: 2px solid red; /* Adding an outline */
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    outline: 2px dashed green; /* Adding an outline */
+}
+h2{
+    text-align: center;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+#btn{
+    justify-content: center;
+}
